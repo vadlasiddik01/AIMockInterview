@@ -15,19 +15,11 @@ This is an advanced and interactive AI-powered mock interview platform designed 
 ## Getting Started
 To get started with the AI-Powered Mock Interview Platform, follow these steps:
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/modamaan/Ai-mock-Interview.git
+1. Install dependencies by running: `npm install` or `yarn install`
 
-2. Navigate to the project directory:
-   ```bash
-   cd ai-mock-interview
+2. Start the Server `npm run dev` or `yarn dev`
 
-3. Install dependencies by running: `npm install` or `yarn install`
-
-4. Start the Server `npm run dev` or `yarn dev`
-
-5. Access the Application: Open your browser and go to http://localhost:3000 to access the application.
+3. Access the Application: Open your browser and go to http://localhost:3000 to access the application.
 
 ## Technologies Used
 - Next.js: A React framework for building server-side rendered and static web applications.
@@ -43,21 +35,3 @@ To use the AI-Powered Mock Interview Platform, follow these guidelines:
 - Start Interview: Begin your mock interview and respond to the AI-generated questions.
 - Receive Feedback: After completing the interview, get detailed feedback and insights to improve.
 - Review Recent Interviews: Access your most recent interviews directly from the home page for quick review and continued improvement.
-
-## Feedback
-
-If you have any feedback, please reach me at [mohamedamaan319@gmail.com](mailto:mohamedamaan319@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohamedamaan319/).
-
-
-## Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-1. Fork this repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them to your branch.
-4. Push your changes to your forked repository.
-5. Submit a pull request to the main repository.
-
-
-## Support
-
-Show your support by 🌟 the project!!

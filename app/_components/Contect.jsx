@@ -17,7 +17,6 @@ const Contect = () => {
 
   const onSubmit = async (e) => {
     e.preventDefault();
-
     console.log(name, email, message);
 
     if (name && email && message) {
